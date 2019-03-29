@@ -53,19 +53,8 @@ header{
     height: 30px;
     margin-right: 10px;
 }
-i.fa-envelope-open{
+i.fa-envelope-open, i.fa-whatsapp-square, i.fa-github{
     color: white;
-    font-size: 24px;
-    margin-right: 10px;
-}
-i.fa-github{
-    color: black;
-    font-size: 24px;
-    margin-right: 10px;
-
-}
-i.fa-whatsapp-square{
-    color: green;
     font-size: 24px;
     margin-right: 10px;
 }
