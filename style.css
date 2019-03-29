@@ -40,6 +40,10 @@ header{
 }
 #body_container{
     background-color: rgb(94, 33, 41);
+
+}
+* body{
+    background-color: rgb(94, 33, 41);
 }
 #contato{
     background-color: rgb(46, 46, 46);
@@ -47,5 +51,21 @@ header{
 #wpp_icon, #gmail_icon{
     width: 30px;
     height: 30px;
+    margin-right: 10px;
+}
+i.fa-envelope-open{
+    color: white;
+    font-size: 24px;
+    margin-right: 10px;
+}
+i.fa-github{
+    color: black;
+    font-size: 24px;
+    margin-right: 10px;
+
+}
+i.fa-whatsapp-square{
+    color: green;
+    font-size: 24px;
     margin-right: 10px;
 }
