@@ -1,0 +1,51 @@
+h4{
+    color: #e6e3e3
+}
+#barra_navegação{
+    position: fixed;
+    background-color: #000000;
+    z-index: 20;
+}
+.at{
+    display: inline-block;
+    margin: 10px;
+    color: white;
+}
+#foto_perfil{
+    margin: 10px;
+    border-radius: 10%;
+}
+header{
+    background-color: rgb(46, 46, 46);
+    color: white;
+}
+.container{
+    background-color: rgb(46, 46, 46);
+    font-family: 'Titillium Web', monospace;
+}
+.interesses_hobbies, .contato, .portifolio{
+    background-color: rgb(94, 33, 41);
+    color: white;
+    font-family: 'Titillium Web', monospace;
+    text-align: center;
+}
+.hobbies_fotos{
+    background-color: white;
+    height: 300px;
+}
+#Gravity_Shift, #THGOW_fase1, #programação, #boca_de_sogra{
+    height: 300px;
+    width: 100%;
+    border: 5px black solid;
+}
+#body_container{
+    background-color: rgb(94, 33, 41);
+}
+#contato{
+    background-color: rgb(46, 46, 46);
+}
+#wpp_icon, #gmail_icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
